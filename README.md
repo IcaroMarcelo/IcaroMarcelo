@@ -1,6 +1,6 @@
 # Olá, eu sou o Icaro Marcelo 👋
 
-💻 Desenvolvedor Front-End em formação  
+💻 Desenvolvedor em formação  
 🎓 Graduando em Análise e Desenvolvimento de Sistemas - UNIP  
 📍 São José dos Campos - SP  
 
