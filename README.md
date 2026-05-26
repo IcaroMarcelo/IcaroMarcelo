@@ -14,6 +14,7 @@ Atualmente estou estudando desenvolvimento web, com foco em HTML, CSS, JavaScrip
 - Git
 - GitHub
 - Python
+- Java
 
 ## 📌 Objetivo
 
