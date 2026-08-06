@@ -4,8 +4,6 @@
 🎓 Graduando em Análise e Desenvolvimento de Sistemas - UNIP  
 📍 São José dos Campos - SP  
 
-Atualmente estou estudando desenvolvimento web, com foco em HTML, CSS, JavaScript e lógica de programação.
-
 ## 🚀 Tecnologias em estudo
 
 - HTML
