@@ -21,5 +21,5 @@ Evoluir como desenvolvedor, criar projetos práticos e desenvolver uma base sól
 
 ## 📫 Contato
 
-- LinkedIn: https://shre.ink/IcaroMarcelo
+- LinkedIn: https://www.linkedin.com/in/icaro-marcelo-9683b0364/
 - GitHub: https://github.com/IcaroMarcelo
